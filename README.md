@@ -1,1 +1,2 @@
 # Timer-pomodoro-method
+info
